@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals_Hamilton_Dakota", "Conditionals_Hamilton_Dakota\Conditionals_Hamilton_Dakota.csproj", "{1BEDC6C4-D2D6-4139-B345-E5FA34CA7CFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BEDC6C4-D2D6-4139-B345-E5FA34CA7CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BEDC6C4-D2D6-4139-B345-E5FA34CA7CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BEDC6C4-D2D6-4139-B345-E5FA34CA7CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BEDC6C4-D2D6-4139-B345-E5FA34CA7CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A82186-E690-49F0-AE23-BE17D2489926}
+	EndGlobalSection
+EndGlobal
